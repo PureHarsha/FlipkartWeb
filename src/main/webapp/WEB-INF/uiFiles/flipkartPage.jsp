@@ -83,6 +83,8 @@ to {
     function openTestPage() {
         window.location.href = '/test';
     }
+    
+    <%-- This is a JSP comment --%>
 
 </script>
 </body>
